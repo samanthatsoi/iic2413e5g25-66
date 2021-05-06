@@ -60,7 +60,7 @@ fastcache==1.0.2
 filelock==3.0.10
 Fiona==1.8.6
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 Flask-PyMongo==2.3.0
 folium==0.8.3
 furl==1.0.1
